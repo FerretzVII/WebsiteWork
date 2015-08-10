@@ -152,11 +152,6 @@ th {
 	font-size: 1.2em;
 	font-variant: small-caps;
 	color: #CBE32D;
-
-div {
-    height:100px;
-    width:100px;
-    display: inline-block;
 }
 
 #red {
