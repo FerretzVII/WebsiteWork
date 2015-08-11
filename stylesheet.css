@@ -114,6 +114,18 @@ th {
 #bottom_right{
 	border-bottom-right-radius: 15px;
 }
+#ready {
+	font-family: Verdana;
+	font-size: 1em;
+	font-weight: normal;
+	color: #FF00cc
+}
+#notready {
+   	font-family: Verdana;
+	font-size: 1em;
+	font-weight: normal;
+	color: #3c4543
+}
 
 #footer{
 	clear: both;
@@ -173,12 +185,4 @@ div {
 
 #green {
     background-color:#008800;
-}
-#ready {
-    background-color:#008800;
-    color:#FFFFFF;
-}
-#notready {
-    background-color:#FF0000;
-    color:#FFFFFF;
 }
